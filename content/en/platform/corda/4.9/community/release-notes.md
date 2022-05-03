@@ -25,7 +25,7 @@ Corda Community Edition 4.9.1 is a patch release of Corda Community Edition whic
 In this patch release:
 
 * Fixing of a bug where `SuspensionMeta` in `FlowInfo` shows as null even when a runnable flow has previously been hospitalized.
-* Update Hibernate version to a more secure version that matches Corda Enterprise.
+* Update Hibernate version to a more secure version that corresponds to the version used in Corda Enterprise.
 
 ## Corda Community Edition 4.9
 
